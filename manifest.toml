@@ -49,8 +49,8 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://github.com/filegator/filegator/archive/refs/tags/v7.13.0.tar.gz"
-    sha256 = "ed39e8bd187b25de13ebe5f647dc1e891ea93eb4732100ff1bc46a74c1fc48f1"
+    url = "https://github.com/filegator/static/blob/master/builds/filegator_v7.13.0.zip"
+    sha256 = "8c72f2bdc6bb483ff417962ace39ccac81f79335341a3d6eff1d976a713599e9"
 
     autoupdate.strategy = "latest_github_tag"
 
